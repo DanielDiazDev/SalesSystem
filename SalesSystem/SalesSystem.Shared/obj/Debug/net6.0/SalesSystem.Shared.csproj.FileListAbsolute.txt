@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Shared\bin\Debug\net6.0\SalesSystem.Shared.deps.json
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Shared\bin\Debug\net6.0\SalesSystem.Shared.dll
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Shared\bin\Debug\net6.0\SalesSystem.Shared.pdb
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Shared\obj\Debug\net6.0\SalesSystem.Shared.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Shared\obj\Debug\net6.0\SalesSystem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Shared\obj\Debug\net6.0\SalesSystem.Shared.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Shared\obj\Debug\net6.0\SalesSystem.Shared.AssemblyInfo.cs
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Shared\obj\Debug\net6.0\SalesSystem.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Shared\obj\Debug\net6.0\SalesSystem.Shared.dll
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Shared\obj\Debug\net6.0\refint\SalesSystem.Shared.dll
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Shared\obj\Debug\net6.0\SalesSystem.Shared.pdb
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Shared\obj\Debug\net6.0\ref\SalesSystem.Shared.dll

@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\bin\Debug\net6.0\SalesSystem.Util.deps.json
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\bin\Debug\net6.0\SalesSystem.Util.dll
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\bin\Debug\net6.0\SalesSystem.Util.pdb
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\bin\Debug\net6.0\SalesSystem.Model.dll
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\bin\Debug\net6.0\SalesSystem.Shared.dll
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\bin\Debug\net6.0\SalesSystem.Model.pdb
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\bin\Debug\net6.0\SalesSystem.Shared.pdb
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\obj\Debug\net6.0\SalesSystem.Util.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\obj\Debug\net6.0\SalesSystem.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\obj\Debug\net6.0\SalesSystem.Util.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\obj\Debug\net6.0\SalesSystem.Util.AssemblyInfo.cs
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\obj\Debug\net6.0\SalesSystem.Util.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\obj\Debug\net6.0\SalesSystem.Util.csproj.CopyComplete
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\obj\Debug\net6.0\SalesSystem.Util.dll
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\obj\Debug\net6.0\refint\SalesSystem.Util.dll
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\obj\Debug\net6.0\SalesSystem.Util.pdb
+C:\Users\User\Desktop\Practica C#\SalesSystemBlazorProject\SalesSystem\SalesSystem.Util\obj\Debug\net6.0\ref\SalesSystem.Util.dll
